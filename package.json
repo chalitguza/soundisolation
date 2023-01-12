@@ -1,0 +1,23 @@
+{
+  "name": "soundisolation",
+  "version": "1.0.0",
+  "description": "soundisolation Song,Vocals,Drums,Bass,Other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "soundisolation"
+  ],
+  "author": "chalitguza",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^3.1.1",
+    "kleur": "^4.1.5",
+    "nodejs-base64": "^2.0.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer-core": "^19.5.2",
+    "unzipper": "^0.10.11"
+  }
+}
