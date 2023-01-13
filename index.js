@@ -164,6 +164,7 @@ console.log(green().bold().underline('OK Step (2/3) Downloading....'));
 console.log(green().bold().underline('OK Step (3/3) .zip extraction process'));
 console.log(green().bold().underline('-----Done-----'));
 console.log('\n--------------');
+await sleep(3);
 process.exit(1);
 }
 
